@@ -4,5 +4,4 @@ class Note < ApplicationRecord
 
   ### Relationships
   has_many :snippets
-
 end
